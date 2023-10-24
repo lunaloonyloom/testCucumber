@@ -1,1 +1,1 @@
-# this is my first automation test using cucmmber
+# this is my first automation test using cucumber
